@@ -1,0 +1,12 @@
+{
+    "name": "library-seeder",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "seed": "node seed.mjs"
+    },
+    "engines": {
+        "node": ">=20"
+    }
+}
